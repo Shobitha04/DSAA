@@ -6,3 +6,4 @@ public class lshift1 {
     arr(i-1)=arr(i);
     arr(n-1)=temp;
 }
+}
