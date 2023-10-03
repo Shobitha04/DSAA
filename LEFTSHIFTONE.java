@@ -1,4 +1,4 @@
-public class lshift1 {
+public class lshift1 {//LEFTSHIFTBYONE
     int arr[];
     n=arr.length();
     int temp=arr(0);
