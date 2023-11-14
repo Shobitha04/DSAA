@@ -1,0 +1,6 @@
+//Insert array at the end
+void InsertAtEnd(int arr[], int element, int n) //n is the size or array/array length
+{
+  n= arr.length();
+  arr[n-1]=element;
+}
